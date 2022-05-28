@@ -1,0 +1,28 @@
+.home-text h1{
+                         object-fit:cover;
+                         display:flex;
+                         color: aqua;
+}
+.home-img img{
+                       width:100%;
+                       object-fit: cover;
+                        height:90vh;
+                       
+                       
+}
+.container{
+                         position: relative;
+                         text-align: center;
+                         color: white
+}
+.text{
+                         position: absolute;
+                         top:50%;
+                         left:50%;
+                         transform: translate(-50%,-50%);
+                         font-size: 32px;
+}
+.text span{
+                         background:black;
+                         color:red;
+}

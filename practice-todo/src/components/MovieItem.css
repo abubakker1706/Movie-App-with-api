@@ -1,0 +1,24 @@
+.movie-poster{
+       height: 500px;
+       width:300px;   
+       object-fit: cover;               
+}
+.movie-specs{
+                         display:flex;
+                         justify-content: space-between;
+}
+.movie-container
+ul > li
+{
+    list-style-type: none;
+}
+.movie-container{
+                         width:340px;
+                        
+                         height: min-content;
+}
+.movie-button{
+                         display: flex;
+                         justify-content: space-between;
+                         margin-left:auto;
+}
